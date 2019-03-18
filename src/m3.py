@@ -12,7 +12,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 
 ###############################################################################
 #
-# TODO: 2. READ these instructions, ASKING QUESTIONS as needed.
+# done: 2. READ these instructions, ASKING QUESTIONS as needed.
 #
 #   This module contains "broken" functions, as in m1 and m2.
 #   FOLLOW THE SAME STEPS as in the instructions of m1.py
